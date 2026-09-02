@@ -1,0 +1,74 @@
+about:
+  description: Apache Hadoop
+  license: Apache-2.0
+  homepage: https://hadoop.apache.org/
+  head: abbc78d
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-02T02:56:25Z
+timeline:
+  created: 2014-08-28
+  lastCommit: 2026-08-30
+  lastRelease: ?
+popularity:
+  star: 15644
+  watcher: 955
+  fork: 9242
+  release: 0
+  contributor: 707
+  pullRequest: 3777
+  issue: 0
+language:
+  Java: 108517020
+  C++: 3200393
+  TypeScript: 2212790
+  C: 2013631
+  JavaScript: 1304936
+  Shell: 582586
+  HTML: 223027
+  Handlebars: 220669
+  CMake: 156959
+  CSS: 103606
+  Batchfile: 79638
+  TSQL: 46145
+  SCSS: 23607
+  Python: 21593
+  TeX: 19322
+  XSLT: 18026
+  TLA: 14997
+  PowerShell: 4073
+  Dockerfile: 2458
+totalLine: 118765476
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 14
+    openPR: 38
+    closedIssue: 0
+    openIssue: 0
+    commit: 44
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 68
+    openPR: 90
+    closedIssue: 0
+    openIssue: 0
+    commit: 141
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 182
+    openPR: 164
+    closedIssue: 0
+    openIssue: 0
+    commit: 354
+  last360d:
+    since: 2025-09-07
+    release: 0
+    mergedPR: 385
+    openPR: 201
+    closedIssue: 0
+    openIssue: 0
+    commit: 671
