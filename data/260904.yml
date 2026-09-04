@@ -7,7 +7,7 @@ about:
   head: 706d4dc
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:23:20Z
+  collectedAt: 2026-09-04T21:10:49Z
 timeline:
   created: 2014-08-28
   lastCommit: 2026-09-04
@@ -98,6 +98,199 @@ total:
   openIssue: 0
   commit: 28335
 ---
+path: /home/runner/.x-repo/github.com/apache/hadoop
+collectedAt: 2026-09-04T21:11:34Z
+loc:
+  Xml:
+    code: 2203718
+    comments: 27504
+    blanks: 32821
+    files: 554
+  Java:
+    code: 1992859
+    comments: 648573
+    blanks: 337249
+    files: 12579
+  Json:
+    code: 166152
+    comments: 0
+    blanks: 8
+    files: 109
+  JavaScript:
+    code: 50617
+    comments: 12272
+    blanks: 6083
+    files: 525
+  C:
+    code: 44760
+    comments: 9109
+    blanks: 7063
+    files: 147
+  Cpp:
+    code: 35663
+    comments: 8658
+    blanks: 6832
+    files: 237
+  CHeader:
+    code: 27859
+    comments: 16853
+    blanks: 6420
+    files: 263
+  TypeScript:
+    code: 25958
+    comments: 4007
+    blanks: 4584
+    files: 166
+  Tsx:
+    code: 23896
+    comments: 3153
+    blanks: 3793
+    files: 147
+  Css:
+    code: 12726
+    comments: 1075
+    blanks: 603
+    files: 54
+  Protobuf:
+    code: 10059
+    comments: 887
+    blanks: 1745
+    files: 81
+  Sh:
+    code: 6319
+    comments: 3973
+    blanks: 1464
+    files: 100
+  Velocity:
+    code: 4569
+    comments: 0
+    blanks: 753
+    files: 14
+  Handlebars:
+    code: 3760
+    comments: 1658
+    blanks: 249
+    files: 91
+  CppHeader:
+    code: 3529
+    comments: 890
+    blanks: 570
+    files: 9
+  Html:
+    code: 3178
+    comments: 849
+    blanks: 425
+    files: 53
+  Batch:
+    code: 2240
+    comments: 0
+    blanks: 425
+    files: 28
+  Bash:
+    code: 2030
+    comments: 532
+    blanks: 359
+    files: 19
+  CMake:
+    code: 2006
+    comments: 1377
+    blanks: 418
+    files: 66
+  Sql:
+    code: 1513
+    comments: 382
+    blanks: 431
+    files: 19
+  Sass:
+    code: 799
+    comments: 164
+    blanks: 175
+    files: 8
+  Yaml:
+    code: 761
+    comments: 47
+    blanks: 10
+    files: 3
+  VisualStudioProject:
+    code: 515
+    comments: 52
+    blanks: 6
+    files: 3
+  Python:
+    code: 403
+    comments: 98
+    blanks: 92
+    files: 4
+  XSL:
+    code: 374
+    comments: 164
+    blanks: 26
+    files: 10
+  Tex:
+    code: 303
+    comments: 15
+    blanks: 52
+    files: 1
+  Svg:
+    code: 296
+    comments: 0
+    blanks: 0
+    files: 2
+  Bitbake:
+    code: 134
+    comments: 208
+    blanks: 15
+    files: 12
+  VisualStudioSolution:
+    code: 97
+    comments: 0
+    blanks: 6
+    files: 2
+  PowerShell:
+    code: 49
+    comments: 35
+    blanks: 14
+    files: 2
+  ForgeConfig:
+    code: 32
+    comments: 86
+    blanks: 13
+    files: 5
+  MsBuild:
+    code: 28
+    comments: 16
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 24
+    comments: 29
+    blanks: 10
+    files: 2
+  Makefile:
+    code: 14
+    comments: 0
+    blanks: 6
+    files: 1
+  Autoconf:
+    code: 13
+    comments: 17
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 115996
+    blanks: 35215
+    files: 543
+  Text:
+    code: 0
+    comments: 4641
+    blanks: 970
+    files: 149
+total:
+  code: 4644372
+  comments: 864155
+  blanks: 449721
+  files: 16010
 ---
 date: "2026-08-24"
 repo:
