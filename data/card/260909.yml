@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:45:06Z
+  collectedAt: 2026-09-09T19:01:59Z
 timeline:
   created: 2014-08-28
   lastCommit: 2026-09-08
@@ -20,7 +20,7 @@ popularity:
   fork: 9244
   release: 0
   contributor: 682
-  pullRequest: 8714
+  pullRequest: 8716
   issue: 0
 language:
   Java: 108550962
@@ -48,7 +48,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 15
-    openPR: 45
+    openPR: 47
     closedIssue: 0
     openIssue: 0
     commit: 48
@@ -56,7 +56,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 43
-    openPR: 83
+    openPR: 85
     closedIssue: 0
     openIssue: 0
     commit: 100
@@ -64,7 +64,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 67
-    openPR: 103
+    openPR: 105
     closedIssue: 0
     openIssue: 0
     commit: 147
@@ -72,7 +72,7 @@ recent:
     since: 2026-03-13
     release: 0
     mergedPR: 177
-    openPR: 156
+    openPR: 158
     closedIssue: 0
     openIssue: 0
     commit: 345
@@ -80,7 +80,7 @@ recent:
     since: 2025-09-14
     release: 0
     mergedPR: 375
-    openPR: 217
+    openPR: 219
     closedIssue: 0
     openIssue: 0
     commit: 641
@@ -88,20 +88,20 @@ recent:
     since: 2024-09-19
     release: 0
     mergedPR: 930
-    openPR: 220
+    openPR: 222
     closedIssue: 0
     openIssue: 0
     commit: 925
 total:
   release: 0
   mergedPR: 4919
-  openPR: 222
+  openPR: 224
   closedIssue: 0
   openIssue: 0
   commit: 28337
 ---
 path: /home/runner/.x-repo/github.com/apache/hadoop
-collectedAt: 2026-09-09T04:48:22Z
+collectedAt: 2026-09-09T19:04:08Z
 loc:
   Xml:
     code: 2203718
