@@ -7,7 +7,7 @@ Apache Hadoop
 - **Latest release**: `` (n/a)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 15653 · **Forks**: 9246 · **Open issues**: 0 · **Contributors**: 682
+- **Stars**: 15654 · **Forks**: 9244 · **Open issues**: 0 · **Contributors**: 682
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/hadoop> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:49:17Z._
+_Last regenerated: 2026-09-09T04:48:44Z._
