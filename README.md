@@ -1,24 +1,68 @@
 # hadoop
 
+[中文版本](./README.cn.md)
+
 Apache Hadoop
 
-- **Upstream**: <https://github.com/apache/hadoop>
-- **Homepage**: <https://hadoop.apache.org/>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-09-08
-- **License**: Apache-2.0
-- **Stars**: 15654 · **Forks**: 9244 · **Open issues**: 0 · **Contributors**: 682
+![hadoop](https://repo.x-cmd.io/hadoop.svg)
 
-## Installation
+## Install
 
 ```sh
 x install hadoop
 ```
 
-See <https://x-cmd.com/install/hadoop> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/apache/hadoop>
+- **Homepage**: <https://hadoop.apache.org/>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Popularity
 
-_Last regenerated: 2026-09-09T19:04:22Z._
+- **Stars**: 15,654 · **Forks**: 9,244 · **Open issues**: 0 · **Contributors**: 682
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 4920 · **Open PRs**: 224 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28337
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 16 | 44 | 0 | 0 | 48 |
+| 90d | 2026-06-12 | 0 | 68 | 103 | 0 | 0 | 144 |
+| 360d | 2025-09-15 | 0 | 367 | 219 | 0 | 0 | 618 |
+
+## Code size
+
+Total: **4,627,852** lines of code across **13919** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Xml | 2,203,718 | 27,504 | 32,821 | 554 |
+| Java | 1,993,457 | 648,763 | 337,369 | 12584 |
+| Json | 166,152 | 0 | 8 | 109 |
+| JavaScript | 50,617 | 12,272 | 6,083 | 525 |
+| C | 44,761 | 9,109 | 7,063 | 147 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.7 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (-1/10) — no releases found
+
+## Improve this data
+
+Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hadoop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/hadoop.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:22Z._
