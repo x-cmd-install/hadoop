@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:42:18Z
+  collectedAt: 2026-09-11T20:21:06Z
 timeline:
   created: 2014-08-28
   lastCommit: 2026-09-08
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 15655
   watcher: 954
-  fork: 9243
+  fork: 9242
   release: 0
   contributor: 682
   pullRequest: 8719
@@ -101,7 +101,7 @@ total:
   commit: 28337
 ---
 path: /home/runner/.x-repo/github.com/apache/hadoop
-collectedAt: 2026-09-11T04:44:04Z
+collectedAt: 2026-09-11T20:22:54Z
 loc:
   Xml:
     code: 2203718
