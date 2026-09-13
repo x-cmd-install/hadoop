@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,656 · **Forks**: 9,242 · **Open issues**: 0 · **Contributors**: 682
+- **Stars**: 15,657 · **Forks**: 9,242 · **Open issues**: 0 · **Contributors**: 682
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4920 · **Open PRs**: 225 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28337
+- **Releases**: 0 · **Merged PRs**: 4920 · **Open PRs**: 226 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28337
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 11 | 42 | 0 | 0 | 48 |
-| last60d | 2026-07-14 | 0 | 38 | 86 | 0 | 0 | 100 |
-| 90d | 2026-06-14 | 0 | 68 | 104 | 0 | 0 | 144 |
-| last180d | 2026-03-16 | 0 | 175 | 158 | 0 | 0 | 336 |
-| 360d | 2025-09-17 | 0 | 362 | 220 | 0 | 0 | 618 |
-| last720d | 2024-09-22 | 0 | 930 | 223 | 0 | 0 | 922 |
+| 30d | 2026-08-14 | 0 | 10 | 42 | 0 | 0 | 29 |
+| last60d | 2026-07-15 | 0 | 37 | 87 | 0 | 0 | 94 |
+| 90d | 2026-06-15 | 0 | 67 | 104 | 0 | 0 | 134 |
+| last180d | 2026-03-17 | 0 | 174 | 159 | 0 | 0 | 317 |
+| 360d | 2025-09-18 | 0 | 359 | 221 | 0 | 0 | 592 |
+| last720d | 2024-09-23 | 0 | 925 | 224 | 0 | 0 | 922 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:46:33Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:07Z._
