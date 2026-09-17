@@ -448,3 +448,4 @@ checks:
     details:
       - 'Info: SAST configuration detected: CodeQL'
       - 'Warn: 3 commits out of 30 are checked with a SAST tool'
+---
