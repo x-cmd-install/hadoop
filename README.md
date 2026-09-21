@@ -14,12 +14,12 @@ x install hadoop
 
 ## Code insight
 
-Total: **4,632,397** lines of code across **13952** files in the top 5 languages.
+Total: **4,632,476** lines of code across **13952** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 2,203,732 | 27,518 | 32,823 | 554 |
-| Java | 1,997,974 | 650,599 | 338,178 | 12617 |
+| Java | 1,998,053 | 650,606 | 338,188 | 12617 |
 | Json | 166,152 | 0 | 8 | 109 |
 | JavaScript | 50,617 | 12,272 | 6,083 | 525 |
 | C | 44,774 | 9,122 | 7,063 | 147 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,665 · **Forks**: 9,243 · **Open issues**: 0 · **Contributors**: 683
+- **Stars**: 15,667 · **Forks**: 9,245 · **Open issues**: 0 · **Contributors**: 683
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4929 · **Open PRs**: 225 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28346
+- **Releases**: 0 · **Merged PRs**: 4930 · **Open PRs**: 224 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28347
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 11 | 36 | 0 | 0 | 33 |
-| last60d | 2026-07-22 | 0 | 39 | 75 | 0 | 0 | 93 |
-| 90d | 2026-06-22 | 0 | 74 | 96 | 0 | 0 | 150 |
-| last180d | 2026-03-24 | 0 | 163 | 155 | 0 | 0 | 314 |
-| 360d | 2025-09-25 | 0 | 357 | 220 | 0 | 0 | 598 |
-| last720d | 2024-09-30 | 0 | 921 | 223 | 0 | 0 | 912 |
+| 30d | 2026-08-22 | 0 | 11 | 35 | 0 | 0 | 35 |
+| last60d | 2026-07-23 | 0 | 39 | 74 | 0 | 0 | 95 |
+| 90d | 2026-06-23 | 0 | 74 | 95 | 0 | 0 | 152 |
+| last180d | 2026-03-25 | 0 | 163 | 151 | 0 | 0 | 316 |
+| 360d | 2025-09-26 | 0 | 358 | 218 | 0 | 0 | 600 |
+| last720d | 2024-10-01 | 0 | 918 | 222 | 0 | 0 | 911 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:04:51Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:03:40Z._
