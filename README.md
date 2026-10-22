@@ -14,12 +14,12 @@ x install hadoop
 
 ## Code insight
 
-Total: **4,639,996** lines of code across **13985** files in the top 5 languages.
+Total: **4,640,094** lines of code across **13986** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 2,203,798 | 27,523 | 32,825 | 554 |
-| Java | 2,005,502 | 652,687 | 339,123 | 12650 |
+| Java | 2,005,600 | 652,713 | 339,140 | 12651 |
 | Json | 166,152 | 0 | 8 | 109 |
 | JavaScript | 50,617 | 12,272 | 6,083 | 525 |
 | C | 44,774 | 9,122 | 7,063 | 147 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,693 · **Forks**: 9,243 · **Open issues**: 0 · **Contributors**: 686
+- **Stars**: 15,694 · **Forks**: 9,244 · **Open issues**: 0 · **Contributors**: 686
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4976 · **Open PRs**: 269 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28390
+- **Releases**: 0 · **Merged PRs**: 4980 · **Open PRs**: 269 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28393
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 36 | 62 | 0 | 0 | 111 |
-| last60d | 2026-08-22 | 0 | 49 | 91 | 0 | 0 | 155 |
-| 90d | 2026-07-23 | 0 | 81 | 122 | 0 | 0 | 217 |
-| last180d | 2026-04-24 | 0 | 172 | 177 | 0 | 0 | 375 |
-| 360d | 2025-10-26 | 0 | 369 | 263 | 0 | 0 | 676 |
-| last720d | 2024-10-31 | 0 | 929 | 267 | 0 | 0 | 932 |
+| 30d | 2026-09-22 | 0 | 40 | 61 | 0 | 0 | 117 |
+| last60d | 2026-08-23 | 0 | 53 | 91 | 0 | 0 | 161 |
+| 90d | 2026-07-24 | 0 | 83 | 121 | 0 | 0 | 223 |
+| last180d | 2026-04-25 | 0 | 175 | 175 | 0 | 0 | 381 |
+| 360d | 2025-10-27 | 0 | 373 | 263 | 0 | 0 | 682 |
+| last720d | 2024-11-01 | 0 | 933 | 267 | 0 | 0 | 935 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:45:59Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:49:37Z._
