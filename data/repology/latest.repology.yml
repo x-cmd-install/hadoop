@@ -1,0 +1,595 @@
+- repo: nix_stable_25_11
+  srcname: hadoop_3_3
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: hadoop_3_3
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: chocolatey
+  binname: hadoop
+  visiblename: Hadoop
+  version: 3.3.6
+  origversion: null
+  status: outdated
+  summary: The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.
+  vulnerable: true
+- repo: macports
+  srcname: java/hadoop
+  binname: hadoop
+  visiblename: hadoop
+  version: 1.2.1
+  origversion: null
+  status: outdated
+  summary: Open-source software for reliable, scalable, distributed computing
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - Apache-2
+  categories:
+    - java
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: hadoop2
+  visiblename: hadoop
+  version: 2.10.2
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: hadoop_3_2
+  visiblename: hadoop
+  version: 3.2.4
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.4.0
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: hadoop2
+  visiblename: hadoop
+  version: 2.10.2
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: hadoop_3_3
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.4.1
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: hadoop2
+  visiblename: hadoop
+  version: 2.10.2
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: hadoop2
+  visiblename: hadoop
+  version: 2.10.2
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_26_05
+  srcname: hadoop2
+  visiblename: hadoop
+  version: 2.10.2
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_26_05
+  srcname: hadoop_3_3
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_unstable
+  srcname: hadoop2
+  visiblename: hadoop
+  version: 2.10.2
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_unstable
+  srcname: hadoop_3_3
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: null
+  status: legacy
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: openeuler_20_03_lts_sp3
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.2.1
+  origversion: 3.2.1-11.oe1
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_20_03_lts_sp4
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.3.4
+  origversion: 3.3.4-5.oe2003sp4
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp1
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 3.3.4
+  origversion: 3.3.4-2.oe2203sp1
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp3
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: 3.3.6-2.oe2203sp3
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp4
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: 3.3.6-2.oe2203sp4
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_03_lts
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: 3.3.6-2.oe2403
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_03_lts_sp1
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: 3.3.6-6.oe2403sp1
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_09
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: 3.3.6-4.oe2409
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_25_03
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 3.3.6
+  origversion: 3.3.6-8.oe2503
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  licenses:
+    - Apache-2.0 and BSD and Zlib and BSL-1.0 and MPL-2.0 and EPL-1.0 and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: rosa_2019_1
+  subrepo: main/release
+  srcname: hadoop
+  binnames:
+    - hadoop-client
+    - hadoop-common
+    - hadoop-common-native
+    - hadoop-devel
+    - hadoop-hdfs
+    - hadoop-hdfs-fuse
+    - hadoop-httpfs
+    - libhdfs
+    - hadoop-mapreduce
+    - hadoop-mapreduce-examples
+    - hadoop-maven-plugin
+    - hadoop-tests
+    - hadoop-yarn
+    - hadoop-yarn-security
+    - hadoop-debuginfo
+    - hadoop-debugsource
+  visiblename: hadoop
+  version: 2.7.6
+  origversion: 2.7.6-7
+  status: outdated
+  summary: A software platform for processing vast amounts of data
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - ASL 2.0 and BSD
+  categories:
+    - Development/Java
+  vulnerable: true
+- repo: spack
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.4.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: aur
+  srcname: hadoop
+  binname: hadoop
+  visiblename: hadoop
+  version: 3.5.0
+  origversion: 3.5.0-1
+  status: newest
+  summary: An open-source software for reliable, scalable, distributed computing
+  maintainers:
+    - autoupdatebot@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: hadoop-bin
+  binname: hadoop-bin
+  visiblename: hadoop-bin
+  version: 3.4.3
+  origversion: 3.4.3-1
+  status: outdated
+  summary: An open-source software for reliable, scalable, distributed computing
+  maintainers:
+    - max.bra@aur
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.5.0
+  origversion: null
+  status: newest
+  summary: Framework for distributed processing of large data sets
+- repo: nix_stable_25_11
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: hadoop3
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: hadoop_3_4
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: hadoop3
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: hadoop_3_4
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Framework for distributed processing of large data sets across clusters of computers
+  maintainers:
+    - me@illustris.tech
+  licenses:
+    - Apache-2.0
+- repo: openpkg_current
+  srcname: hadoop
+  visiblename: hadoop
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: Distributed Storage Engine
+  licenses:
+    - Apache
+  categories:
+    - Filesystem
+- repo: wikidata
+  srcname: Q29120
+  visiblename: Apache Hadoop
+  version: 3.5.0
+  origversion: null
+  status: newest
+  summary: distributed data processing framework
+  licenses:
+    - Apache Software License 2.0
+    - GNU General Public License
