@@ -14,13 +14,13 @@ x install hadoop
 
 ## Code insight
 
-Total: **4,640,812** lines of code across **13986** files in the top 5 languages.
+Total: **4,644,485** lines of code across **13998** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 2,203,798 | 27,523 | 32,825 | 554 |
-| Java | 2,006,318 | 652,831 | 339,211 | 12651 |
-| Json | 166,152 | 0 | 8 | 109 |
+| Java | 2,009,758 | 653,630 | 339,532 | 12663 |
+| Json | 166,379 | 0 | 8 | 109 |
 | JavaScript | 50,617 | 12,272 | 6,083 | 525 |
 | C | 44,774 | 9,122 | 7,063 | 147 |
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4999 · **Open PRs**: 271 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28411
+- **Releases**: 0 · **Merged PRs**: 5002 · **Open PRs**: 281 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 49 | 63 | 0 | 0 | 151 |
-| last60d | 2026-08-31 | 0 | 69 | 95 | 0 | 0 | 195 |
-| 90d | 2026-08-01 | 0 | 96 | 123 | 0 | 0 | 249 |
-| last180d | 2026-05-03 | 0 | 189 | 180 | 0 | 0 | 416 |
-| 360d | 2025-11-04 | 0 | 390 | 265 | 0 | 0 | 720 |
-| last720d | 2024-11-09 | 0 | 946 | 269 | 0 | 0 | 943 |
+| 30d | 2026-10-01 | 0 | 49 | 71 | 0 | 0 | 158 |
+| last60d | 2026-09-01 | 0 | 72 | 105 | 0 | 0 | 202 |
+| 90d | 2026-08-02 | 0 | 97 | 132 | 0 | 0 | 256 |
+| last180d | 2026-05-04 | 0 | 192 | 190 | 0 | 0 | 423 |
+| 360d | 2025-11-05 | 0 | 391 | 274 | 0 | 0 | 727 |
+| last720d | 2024-11-10 | 0 | 949 | 279 | 0 | 0 | 946 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:52:37Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:39:31Z._
