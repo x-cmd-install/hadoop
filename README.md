@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,709 · **Forks**: 9,250 · **Open issues**: 0 · **Contributors**: 691
+- **Stars**: 15,710 · **Forks**: 9,250 · **Open issues**: 0 · **Contributors**: 691
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 5008 · **Open PRs**: 287 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28420
+- **Releases**: 0 · **Merged PRs**: 5008 · **Open PRs**: 300 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28420
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 46 | 75 | 0 | 0 | 124 |
-| last60d | 2026-09-05 | 0 | 75 | 110 | 0 | 0 | 206 |
-| 90d | 2026-08-06 | 0 | 101 | 135 | 0 | 0 | 258 |
-| last180d | 2026-05-08 | 0 | 188 | 194 | 0 | 0 | 407 |
-| 360d | 2025-11-09 | 0 | 391 | 279 | 0 | 0 | 736 |
-| last720d | 2024-11-14 | 0 | 950 | 285 | 0 | 0 | 951 |
+| 30d | 2026-10-06 | 0 | 45 | 85 | 0 | 0 | 124 |
+| last60d | 2026-09-06 | 0 | 75 | 123 | 0 | 0 | 206 |
+| 90d | 2026-08-07 | 0 | 98 | 147 | 0 | 0 | 258 |
+| last180d | 2026-05-09 | 0 | 187 | 205 | 0 | 0 | 407 |
+| 360d | 2025-11-10 | 0 | 388 | 292 | 0 | 0 | 736 |
+| last720d | 2024-11-15 | 0 | 949 | 298 | 0 | 0 | 949 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:23:45Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:46:49Z._

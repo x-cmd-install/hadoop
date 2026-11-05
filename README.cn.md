@@ -32,7 +32,7 @@ x install hadoop
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (-1/10) — no releases found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install hadoop
 
 ## 流行度
 
-- **Star**: 15,709 · **Fork**: 9,250 · **开放 issue**: 0 · **贡献者**: 691
+- **Star**: 15,710 · **Fork**: 9,250 · **开放 issue**: 0 · **贡献者**: 691
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 5008 · **开放 PR**: 287 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 28420
+- **发布数**: 0 · **已合并 PR**: 5008 · **开放 PR**: 300 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 28420
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 46 | 75 | 0 | 0 | 124 |
-| last60d | 2026-09-05 | 0 | 75 | 110 | 0 | 0 | 206 |
-| 90d | 2026-08-06 | 0 | 101 | 135 | 0 | 0 | 258 |
-| last180d | 2026-05-08 | 0 | 188 | 194 | 0 | 0 | 407 |
-| 360d | 2025-11-09 | 0 | 391 | 279 | 0 | 0 | 736 |
-| last720d | 2024-11-14 | 0 | 950 | 285 | 0 | 0 | 951 |
+| 30d | 2026-10-06 | 0 | 45 | 85 | 0 | 0 | 124 |
+| last60d | 2026-09-06 | 0 | 75 | 123 | 0 | 0 | 206 |
+| 90d | 2026-08-07 | 0 | 98 | 147 | 0 | 0 | 258 |
+| last180d | 2026-05-09 | 0 | 187 | 205 | 0 | 0 | 407 |
+| 360d | 2025-11-10 | 0 | 388 | 292 | 0 | 0 | 736 |
+| last720d | 2024-11-15 | 0 | 949 | 298 | 0 | 0 | 949 |
 
 ## 发行版状态
 
@@ -77,4 +77,4 @@ hadoop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:23:46Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:46:50Z._
