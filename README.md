@@ -14,12 +14,12 @@ x install hadoop
 
 ## Code insight
 
-Total: **4,645,968** lines of code across **14001** files in the top 5 languages.
+Total: **4,646,036** lines of code across **14001** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 2,203,797 | 27,522 | 32,825 | 554 |
-| Java | 2,011,104 | 653,740 | 339,628 | 12666 |
+| Java | 2,011,172 | 653,754 | 339,630 | 12666 |
 | Json | 166,379 | 0 | 8 | 109 |
 | JavaScript | 50,617 | 12,272 | 6,083 | 525 |
 | C | 44,774 | 9,122 | 7,063 | 147 |
@@ -42,22 +42,31 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,710 · **Forks**: 9,252 · **Open issues**: 0 · **Contributors**: 691
+- **Stars**: 15,710 · **Forks**: 9,254 · **Open issues**: 0 · **Contributors**: 691
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 5012 · **Open PRs**: 315 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28424
+- **Releases**: 0 · **Merged PRs**: 5014 · **Open PRs**: 318 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 44 | 100 | 0 | 0 | 132 |
-| last60d | 2026-09-07 | 0 | 76 | 138 | 0 | 0 | 214 |
-| 90d | 2026-08-08 | 0 | 101 | 164 | 0 | 0 | 266 |
-| last180d | 2026-05-10 | 0 | 191 | 220 | 0 | 0 | 415 |
-| 360d | 2025-11-11 | 0 | 389 | 307 | 0 | 0 | 744 |
-| last720d | 2024-11-16 | 0 | 952 | 313 | 0 | 0 | 952 |
+| 30d | 2026-10-08 | 0 | 44 | 102 | 0 | 0 | 137 |
+| last60d | 2026-09-08 | 0 | 76 | 137 | 0 | 0 | 219 |
+| 90d | 2026-08-09 | 0 | 103 | 166 | 0 | 0 | 271 |
+| last180d | 2026-05-11 | 0 | 192 | 223 | 0 | 0 | 420 |
+| 360d | 2025-11-12 | 0 | 389 | 310 | 0 | 0 | 749 |
+| last720d | 2024-11-17 | 0 | 954 | 316 | 0 | 0 | 954 |
+
+## Distribution status
+
+Reported by **39** distros on [repology.org](https://repology.org/project/hadoop). **3** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `3.5.0` | ✅ latest |
+| Nix unstable | `3.4.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -68,4 +77,4 @@ Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:38:10Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:59:08Z._
