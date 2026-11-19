@@ -14,19 +14,19 @@ x install hadoop
 
 ## Code insight
 
-Total: **4,647,398** lines of code across **14006** files in the top 5 languages.
+Total: **4,647,418** lines of code across **14006** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Xml | 2,203,796 | 27,534 | 32,823 | 554 |
-| Java | 2,012,535 | 654,188 | 339,784 | 12671 |
+| Java | 2,012,555 | 654,194 | 339,785 | 12671 |
 | Json | 166,379 | 0 | 8 | 109 |
 | JavaScript | 50,617 | 12,272 | 6,083 | 525 |
 | C | 44,774 | 9,122 | 7,063 | 147 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.7 / 10**
+Overall score: **7.8 / 10**
 
 Lowest-scoring checks:
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,716 · **Forks**: 9,256 · **Open issues**: 0 · **Contributors**: 694
+- **Stars**: 15,720 · **Forks**: 9,254 · **Open issues**: 0 · **Contributors**: 695
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 5039 · **Open PRs**: 332 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28449
+- **Releases**: 0 · **Merged PRs**: 5042 · **Open PRs**: 333 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 28452
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 54 | 98 | 0 | 0 | 126 |
-| last60d | 2026-09-18 | 0 | 95 | 144 | 0 | 0 | 251 |
-| 90d | 2026-08-19 | 0 | 111 | 173 | 0 | 0 | 293 |
-| last180d | 2026-05-21 | 0 | 204 | 236 | 0 | 0 | 448 |
-| 360d | 2025-11-22 | 0 | 402 | 323 | 0 | 0 | 795 |
-| last720d | 2024-11-27 | 0 | 968 | 330 | 0 | 0 | 969 |
+| 30d | 2026-10-20 | 0 | 50 | 98 | 0 | 0 | 132 |
+| last60d | 2026-09-20 | 0 | 97 | 146 | 0 | 0 | 257 |
+| 90d | 2026-08-21 | 0 | 112 | 173 | 0 | 0 | 299 |
+| last180d | 2026-05-23 | 0 | 204 | 235 | 0 | 0 | 454 |
+| 360d | 2025-11-24 | 0 | 405 | 324 | 0 | 0 | 801 |
+| last720d | 2024-11-29 | 0 | 971 | 331 | 0 | 0 | 971 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for hadoop lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:15:02Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:27:53Z._
