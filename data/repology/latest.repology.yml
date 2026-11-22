@@ -114,14 +114,14 @@
   status: newest
   summary: distributed data processing framework
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
     - GNU General Public License
 - repo: nix_stable_24_05
-  srcname: hadoop2
+  srcname: hadoop
   visiblename: hadoop
-  version: 2.10.2
+  version: 3.3.6
   origversion: null
-  status: legacy
+  status: outdated
   summary: Framework for distributed processing of large data sets across clusters of computers
   maintainers:
     - me@illustris.tech
@@ -152,11 +152,11 @@
     - java
   vulnerable: true
 - repo: nix_stable_24_05
-  srcname: hadoop
+  srcname: hadoop2
   visiblename: hadoop
-  version: 3.3.6
+  version: 2.10.2
   origversion: null
-  status: outdated
+  status: legacy
   summary: Framework for distributed processing of large data sets across clusters of computers
   maintainers:
     - me@illustris.tech
