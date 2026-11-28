@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:29:57Z
+  collectedAt: 2026-11-28T07:48:26Z
 timeline:
   created: 2014-08-28
   lastCommit: 2026-11-27
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 15722
+  star: 15723
   watcher: 948
-  fork: 9252
+  fork: 9254
   release: 0
   contributor: 695
-  pullRequest: 9031
+  pullRequest: 9036
   issue: 0
 language:
   Java: 109743720
@@ -45,63 +45,63 @@ language:
 totalBytes: 120005298
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 52
-    openPR: 76
+    openPR: 77
     closedIssue: 0
     openIssue: 0
     commit: 141
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 110
-    openPR: 130
+    openPR: 129
     closedIssue: 0
     openIssue: 0
     commit: 291
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 130
-    openPR: 158
+    openPR: 161
     closedIssue: 0
     openIssue: 0
     commit: 334
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 220
-    openPR: 222
+    mergedPR: 219
+    openPR: 225
     closedIssue: 0
     openIssue: 0
     commit: 481
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 418
-    openPR: 314
+    mergedPR: 416
+    openPR: 318
     closedIssue: 0
     openIssue: 0
     commit: 841
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
-    mergedPR: 981
-    openPR: 321
+    mergedPR: 982
+    openPR: 325
     closedIssue: 0
     openIssue: 0
     commit: 985
 total:
   release: 0
-  mergedPR: 5062
-  openPR: 324
+  mergedPR: 5063
+  openPR: 328
   closedIssue: 0
   openIssue: 0
   commit: 28471
 ---
 path: /home/runner/.x-repo/github.com/apache/hadoop
-collectedAt: 2026-11-27T08:31:53Z
+collectedAt: 2026-11-28T07:50:09Z
 loc:
   Xml:
     code: 2203799
